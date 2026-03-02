@@ -22,8 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "RAG-MIA & Privacy": 
+    "RAG-MIA": 
         filters: ["RAG Membership Inference", "Membership Inference Attack RAG", "Retrieval-Augmented Generation", "Retrieval-Augmented Generation Privacy"]
-    "RAG-Stealing & Extraction":
+    "RAG-Stealing":
         filters: ["RAG stealing", "RAG extraction attack", "Knowledge base stealing", "Retrieval database extraction", "reconstruction attack"]
         
