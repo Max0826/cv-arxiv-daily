@@ -36,4 +36,17 @@ keywords:
         "MIA on RAG",
         "MIA against RAG",
         "Privacy Leakage in RAG" ]
+    "RAG-MIA-1": 
+        filters: [
+        "Membership Inference Attack on RAG",
+        "Membership Inference Attack against RAG",
+        "Membership Inference for RAG",
+        "Membership Inference on RAG",
+        "MIA on RAG",
+        "MIA against RAG",
+        "Privacy Leakage in RAG",
+        "RAG-leaks",
+        "BudgetLeak",
+        "SeqMIA"
+    ]
         
