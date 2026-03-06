@@ -7,6 +7,7 @@
     <li><a href=#rag-mia>RAG-MIA</a></li>
     <li><a href=#rag-stealing>RAG-Stealing</a></li>
     <li><a href=#rag-membership-inference>RAG-Membership Inference</a></li>
+    <li><a href=#rag-membership-inference-1>RAG-Membership Inference-1</a></li>
   </ol>
 </details>
 
@@ -80,6 +81,18 @@
 |**2026-03-03**|**The Household Impact of Generative AI: Evidence from Internet Browsing Behavior**|Michael Blank et.al.|[2603.03144](http://arxiv.org/abs/2603.03144)|null|
 |**2026-03-03**|**PrivMedChat: End-to-End Differentially Private RLHF for Medical Dialogue Systems**|Sudip Bhujel et.al.|[2603.03054](http://arxiv.org/abs/2603.03054)|null|
 |**2026-03-03**|**Step-Level Sparse Autoencoder for Reasoning Process Interpretation**|Xuan Yang et.al.|[2603.03031](http://arxiv.org/abs/2603.03031)|null|
+
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+
+## RAG-Membership Inference-1
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-11-15**|**BudgetLeak: Membership Inference Attacks on RAG Systems via the Generation Budget Side Channel**|Hao Li et.al.|[2511.12043](http://arxiv.org/abs/2511.12043)|null|
+|**2025-09-07**|**DCMI: A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation**|Xinyu Gao et.al.|[2509.06026](http://arxiv.org/abs/2509.06026)|null|
+|**2025-02-09**|**Mask-based Membership Inference Attacks for Retrieval-Augmented Generation**|Mingrui Liu et.al.|[2410.20142](http://arxiv.org/abs/2410.20142)|null|
+|**2024-09-12**|**Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking**|Stav Cohen et.al.|[2409.08045](http://arxiv.org/abs/2409.08045)|null|
+|**2025-02-04**|**Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation**|Maya Anderson et.al.|[2405.20446](http://arxiv.org/abs/2405.20446)|null|
 
 <p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
