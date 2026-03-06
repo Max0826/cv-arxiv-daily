@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.02
+## Updated on 2026.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RAG-MIA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Retrieval or Representation? Reassessing Benchmark Gaps in Multilingual and Visually Rich RAG**|Martin Asenov et.al.|[2603.04238](http://arxiv.org/abs/2603.04238)|null|
+|**2026-03-04**|**UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization**|Qianfeng Yang et.al.|[2603.03967](http://arxiv.org/abs/2603.03967)|null|
+|**2026-03-04**|**When Safety Becomes a Vulnerability: Exploiting LLM Alignment Homogeneity for Transferable Blocking in RAG**|Junchen Li et.al.|[2603.03919](http://arxiv.org/abs/2603.03919)|null|
+|**2026-03-04**|**Assessing the Effectiveness of LLMs in Delivering Cognitive Behavioral Therapy**|Navdeep Singh Bedi et.al.|[2603.03862](http://arxiv.org/abs/2603.03862)|null|
+|**2026-03-04**|**RAGNav: A Retrieval-Augmented Topological Reasoning Framework for Multi-Goal Visual-Language Navigation**|Ling Luo et.al.|[2603.03745](http://arxiv.org/abs/2603.03745)|null|
+|**2026-03-04**|**RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation**|Hao Li et.al.|[2603.03617](http://arxiv.org/abs/2603.03617)|null|
+|**2026-03-03**|**Tucano 2 Cool: Better Open Source LLMs for Portuguese**|Nicholas Kluge Corrêa et.al.|[2603.03543](http://arxiv.org/abs/2603.03543)|null|
+|**2026-03-03**|**RAG-X: Systematic Diagnosis of Retrieval-Augmented Generation for Medical Question Answering**|Aswini Sivakumar et.al.|[2603.03541](http://arxiv.org/abs/2603.03541)|null|
+|**2026-03-03**|**Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling**|Y. Zhong et.al.|[2603.03180](http://arxiv.org/abs/2603.03180)|null|
+|**2026-03-03**|**Saarthi for AGI: Towards Domain-Specific General Intelligence for Formal Verification**|Aman Kumar et.al.|[2603.03175](http://arxiv.org/abs/2603.03175)|null|
 |**2026-02-27**|**AgenticOCR: Parsing Only What You Need for Efficient Retrieval-Augmented Generation**|Zhengren Wang et.al.|[2602.24134](http://arxiv.org/abs/2602.24134)|null|
 |**2026-02-27**|**CLFEC: A New Task for Unified Linguistic and Factual Error Correction in paragraph-level Chinese Professional Writing**|Jian Kai et.al.|[2602.23845](http://arxiv.org/abs/2602.23845)|null|
 |**2026-02-27**|**SAGE-LLM: Towards Safe and Generalizable LLM Controller with Fuzzy-CBF Verification and Graph-Structured Knowledge Retrieval for UAV Decision**|Wenzhe Zhao et.al.|[2602.23719](http://arxiv.org/abs/2602.23719)|null|
@@ -24,6 +34,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**PTOPOFL: Privacy-Preserving Personalised Federated Learning via Persistent Homology**|Kelly L Vomo-Donfack et.al.|[2603.04323](http://arxiv.org/abs/2603.04323)|null|
 |**2026-02-22**|**Learning to Detect Language Model Training Data via Active Reconstruction**|Junjie Oscar Yin et.al.|[2602.19020](http://arxiv.org/abs/2602.19020)|null|
 |**2026-02-19**|**Guarding the Middle: Protecting Intermediate Representations in Federated Split Learning**|Obaidullah Zaland et.al.|[2602.17614](http://arxiv.org/abs/2602.17614)|null|
 |**2026-02-18**|**Protecting the Undeleted in Machine Unlearning**|Aloni Cohen et.al.|[2602.16697](http://arxiv.org/abs/2602.16697)|null|
