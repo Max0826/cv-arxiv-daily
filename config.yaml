@@ -49,4 +49,21 @@ keywords:
         "BudgetLeak",
         "SeqMIA"
     ]
+    "RAG-MIA-2": 
+        filters: [
+        "Membership Inference on RAG",
+        "Membership Inference in RAG",
+        "Membership Inference against RAG",
+        "RAG Membership Inference",
+        "Membership Inference for Retrieval-Augmented Generation",
+        "chunk stealing",
+        "overlapping inference attack",
+        "RAG-leaks",
+        "BudgetLeak",
+        "SeqMIA",
+        "DCMI",
+        "Differential Calibration Membership Inference",
+        "Retrieval Database Privacy",
+        "Privacy of Retrieval Data"
+    ]
         
