@@ -1,4 +1,4 @@
-## Updated on 2026.03.06
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,7 +47,7 @@
 |**2026-02-26**|**Forecasting Antimicrobial Resistance Trends Using Machine Learning on WHO GLASS Surveillance Data: A Retrieval-Augmented Generation Approach for Policy Decision Support**|Md Tanvir Hasan Turja et.al.|[2602.22673](http://arxiv.org/abs/2602.22673)|null|
 |**2026-02-26**|**Towards Faithful Industrial RAG: A Reinforced Co-adaptation Framework for Advertising QA**|Wenwei Li et.al.|[2602.22584](http://arxiv.org/abs/2602.22584)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## RAG-Stealing
 
@@ -66,7 +66,7 @@
 |**2026-02-05**|**Connect the Dots: Knowledge Graph-Guided Crawler Attack on Retrieval-Augmented Generation Systems**|Mengyu Yao et.al.|[2601.15678](http://arxiv.org/abs/2601.15678)|null|
 |**2026-01-21**|**Auditing Language Model Unlearning via Information Decomposition**|Anmol Goel et.al.|[2601.15111](http://arxiv.org/abs/2601.15111)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## RAG-Membership Inference
 
@@ -83,7 +83,7 @@
 |**2026-03-03**|**PrivMedChat: End-to-End Differentially Private RLHF for Medical Dialogue Systems**|Sudip Bhujel et.al.|[2603.03054](http://arxiv.org/abs/2603.03054)|null|
 |**2026-03-03**|**Step-Level Sparse Autoencoder for Reasoning Process Interpretation**|Xuan Yang et.al.|[2603.03031](http://arxiv.org/abs/2603.03031)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## RAG-Membership Inference-1
 
@@ -95,7 +95,7 @@
 |**2024-09-12**|**Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking**|Stav Cohen et.al.|[2409.08045](http://arxiv.org/abs/2409.08045)|null|
 |**2025-02-04**|**Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation**|Maya Anderson et.al.|[2405.20446](http://arxiv.org/abs/2405.20446)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## RAG-MIA-1
 
@@ -112,7 +112,7 @@
 |**2025-09-22**|**Design and Implementation of a Secure RAG-Enhanced AI Chatbot for Smart Tourism Customer Service: Defending Against Prompt Injection Attacks -- A Case Study of Hsinchu, Taiwan**|Yu-Kai Shih et.al.|[2509.21367](http://arxiv.org/abs/2509.21367)|null|
 |**2025-09-24**|**RAG Security and Privacy: Formalizing the Threat Model and Attack Surface**|Atousa Arzanipour et.al.|[2509.20324](http://arxiv.org/abs/2509.20324)|null|
 
-<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
