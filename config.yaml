@@ -22,7 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "RAG-MIA": 
+    "RAG-Leaks": 
         filters: [
             "Membership Inference Attack on RAG",
             "Membership Inference Attack against RAG",
