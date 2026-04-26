@@ -1,4 +1,4 @@
-## Updated on 2026.04.20
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**Context Kubernetes: Declarative Orchestration of Enterprise Knowledge for Agentic AI Systems**|Charafeddine Mouzouni et.al.|[2604.11623](http://arxiv.org/abs/2604.11623)|null|
+|**2026-04-10**|**ADAM: A Systematic Data Extraction Attack on Agent Memory via Adaptive Querying**|Xingyu Lyu et.al.|[2604.09747](http://arxiv.org/abs/2604.09747)|null|
 |**2026-03-24**|**Parametric Knowledge and Retrieval Behavior in RAG Fine-Tuning for Electronic Design Automation**|Julian Oestreich et.al.|[2603.23047](http://arxiv.org/abs/2603.23047)|null|
 |**2026-02-03**|**Zero2Text: Zero-Training Cross-Domain Inversion Attacks on Textual Embeddings**|Doohyun Kim et.al.|[2602.01757](http://arxiv.org/abs/2602.01757)|null|
 |**2026-03-27**|**Insider Knowledge: How Much Can RAG Systems Gain from Evaluation Secrets?**|Laura Dietz et.al.|[2601.13227](http://arxiv.org/abs/2601.13227)|null|
@@ -34,7 +36,7 @@
 |**2025-04-16**|**Efficient Distributed Retrieval-Augmented Generation for Enhancing Language Model Performance**|Shangyu Liu et.al.|[2504.11197](http://arxiv.org/abs/2504.11197)|null|
 |**2024-12-29**|**Pirates of the RAG: Adaptively Attacking LLMs to Leak Knowledge Bases**|Christian Di Maio et.al.|[2412.18295](http://arxiv.org/abs/2412.18295)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
